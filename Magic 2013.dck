@@ -1,0 +1,45 @@
+1 [M13:36] Sublime Archangel
+1 [M13:11] Divine Favor
+1 [M13:10] Crusader of Odric
+1 [M13:31] Serra Angel
+1 [M13:34] Show of Valor
+1 [M13:81] Blood Reckoning
+1 [M13:107] Rise from the Grave
+3 [M13:86] Dark Favor
+2 [M13:108] Servant of Nefarox
+2 [M13:110] Sign in Blood
+2 [M13:92] Duty-Bound Dead
+1 [M13:83] Bloodthrone Vampire
+2 [M13:99] Mark of the Vampire
+1 [M13:116] Walking Corpse
+1 [M13:96] Knight of Infamy
+1 [M13:91] Duskmantle Prowler
+1 [M13:111] Tormented Soul
+3 [M13:232] Plains
+1 [M13:231] Plains
+1 [M13:233] Plains
+1 [M13:230] Plains
+2 [M13:241] Swamp
+4 [M13:238] Swamp
+3 [M13:240] Swamp
+2 [M13:239] Swamp
+SB: 1 [M13:155] Volcanic Strength
+SB: 1 [M13:74] Tricks of the Trade
+SB: 3 [M13:204] Elixir of Immortality
+SB: 1 [M13:240] Swamp
+SB: 1 [M13:215] Ring of Xathrid
+SB: 1 [M13:190] Serpent's Gift
+SB: 1 [M13:236] Island
+SB: 1 [M13:68] Spelltwine
+SB: 1 [M13:60] Merfolk of the Pearl Trident
+SB: 1 [M13:43] Augur of Bolas
+SB: 1 [M13:50] Essence Scatter
+SB: 1 [M13:58] Kraken Hatchling
+SB: 1 [M13:55] Index
+SB: 1 [M13:249] Forest
+SB: 2 [M13:90] Duress
+SB: 1 [M13:106] Ravenous Rats
+SB: 2 [M13:98] Liliana's Shade
+SB: 1 [M13:25] Pillarfield Ox
+LAYOUT MAIN:(1,6)(CMC,false,50)|([M13:232],[M13:232],[M13:231],[M13:233],[M13:230],[M13:232],[M13:241],[M13:238],[M13:240],[M13:239],[M13:238],[M13:240],[M13:238],[M13:241],[M13:239],[M13:238],[M13:240])([M13:92],[M13:92],[M13:111])([M13:83],[M13:86],[M13:86],[M13:86],[M13:11],[M13:96],[M13:34],[M13:110],[M13:110],[M13:116])([M13:10],[M13:108],[M13:108])([M13:81],[M13:91],[M13:99],[M13:99],[M13:36])([M13:107],[M13:31])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,50)|([M13:204],[M13:240],[M13:215],[M13:204],[M13:204],[M13:236],[M13:249])([M13:74],[M13:68],[M13:60],[M13:43],[M13:50],[M13:58],[M13:55])([M13:190],[M13:90],[M13:106])([M13:155],[M13:90],[M13:98])([M13:98],[M13:25])

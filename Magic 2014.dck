@@ -1,0 +1,47 @@
+1 [M14:113] Sengir Vampire
+2 [M14:90] Corpse Hauler
+1 [M14:105] Mark of the Vampire
+2 [M14:92] Dark Favor
+1 [M14:107] Minotaur Abomination
+1 [M14:89] Child of Night
+3 [M14:167] Brindle Boar
+2 [M14:175] Giant Spider
+1 [M14:178] Howl of the Night Pack
+1 [M14:196] Sporemound
+2 [M14:199] Verdant Haven
+2 [M14:169] Elvish Mystic
+1 [M14:173] Garruk's Horde
+1 [M14:181] Kalonian Hydra
+1 [M14:174] Giant Growth
+1 [M14:191] Ranger's Guile
+1 [M14:209] Elixir of Immortality
+1 [M14:210] Fireshrieker
+2 [M14:246] Forest
+3 [M14:249] Forest
+2 [M14:247] Forest
+2 [M14:248] Forest
+2 [M14:240] Swamp
+1 [M14:241] Swamp
+3 [M14:238] Swamp
+SB: 1 [M14:137] Dragon Egg
+SB: 1 [M14:32] Serra Angel
+SB: 1 [M14:41] Wall of Swords
+SB: 1 [M14:63] Messenger Drake
+SB: 1 [M14:242] Mountain
+SB: 1 [M14:133] Chandra's Outrage
+SB: 1 [M14:8] Blessing
+SB: 1 [M14:33] Show of Valor
+SB: 1 [M14:238] Swamp
+SB: 1 [M14:144] Lightning Talons
+SB: 1 [M14:74] Time Ebb
+SB: 1 [M14:245] Mountain
+SB: 1 [M14:106] Mind Rot
+SB: 1 [M14:192] Rootwalla
+SB: 1 [M14:199] Verdant Haven
+SB: 1 [M14:186] Naturalize
+SB: 1 [M14:189] Predatory Sliver
+SB: 1 [M14:98] Festering Newt
+SB: 1 [M14:171] Fog
+SB: 1 [M14:201] Windstorm
+LAYOUT MAIN:(1,8)(CMC,false,50)|([M14:246],[M14:249],[M14:247],[M14:246],[M14:249],[M14:247],[M14:249],[M14:248],[M14:248],[M14:240],[M14:241],[M14:238],[M14:240],[M14:238],[M14:238])([M14:209],[M14:169],[M14:169],[M14:174],[M14:191])([M14:89],[M14:90],[M14:90],[M14:92],[M14:92])([M14:167],[M14:167],[M14:167],[M14:210],[M14:199],[M14:199])([M14:175],[M14:175],[M14:105])([M14:181],[M14:113],[M14:196])([M14:107])([M14:173],[M14:178])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,50)|([M14:242],[M14:98],[M14:171],[M14:238],[M14:245],[M14:201])([M14:63],[M14:74],[M14:189],[M14:186])([M14:137],[M14:133],[M14:144],[M14:199])([M14:32],[M14:41],[M14:8],[M14:33])([M14:192])([M14:106])

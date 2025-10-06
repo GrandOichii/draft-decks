@@ -1,0 +1,47 @@
+3 [M10:5] Blinding Mage
+1 [M10:18] Lifelink
+1 [M10:15] Holy Strength
+1 [M10:34] Soul Warden
+1 [M10:9] Elite Vanguard
+1 [M10:38] Veteran Armorsmith
+3 [M10:39] Veteran Swordsmith
+2 [M10:35] Stormfront Pegasus
+1 [M10:29] Serra Angel
+2 [M10:22] Pacifism
+1 [M10:13] Guardian Seraph
+1 [M10:3] Armored Ascension
+1 [M10:25] Razorfoot Griffin
+1 [M10:151] Prodigal Pyromancer
+1 [M10:142] Inferno Elemental
+1 [M10:133] Dragon Whelp
+1 [M10:158] Sparkmage Apprentice
+1 [M10:124] Act of Treason
+3 [M10:242] Mountain
+1 [M10:245] Mountain
+1 [M10:244] Mountain
+4 [M10:233] Plains
+1 [M10:230] Plains
+5 [M10:231] Plains
+1 [M10:232] Plains
+SB: 1 [M10:56] Ice Cage
+SB: 1 [M10:116] Unholy Strength
+SB: 1 [M10:203] Runeclaw Bear
+SB: 1 [M10:123] Zombie Goliath
+SB: 1 [M10:234] Island
+SB: 1 [M10:208] Darksteel Colossus
+SB: 1 [M10:100] Hypnotic Specter
+SB: 1 [M10:95] Drudge Skeletons
+SB: 1 [M10:88] Child of Night
+SB: 1 [M10:83] Acolyte of Xathrid
+SB: 1 [M10:46] Convincing Mirage
+SB: 1 [M10:237] Island
+SB: 1 [M10:68] Ponder
+SB: 1 [M10:248] Forest
+SB: 1 [M10:160] Trumpet Blast
+SB: 1 [M10:7] Celestial Purge
+SB: 1 [M10:18] Lifelink
+SB: 2 [M10:162] Wall of Fire
+SB: 1 [M10:35] Stormfront Pegasus
+SB: 1 [M10:32] Silvercoat Lion
+LAYOUT MAIN:(1,7)(CMC,false,50)|([M10:242],[M10:242],[M10:242],[M10:245],[M10:244],[M10:233],[M10:230],[M10:233],[M10:231],[M10:231],[M10:233],[M10:231],[M10:233],[M10:232],[M10:231],[M10:231])([M10:9],[M10:15],[M10:18],[M10:34])([M10:5],[M10:5],[M10:5],[M10:22],[M10:22],[M10:158],[M10:35],[M10:35],[M10:38])([M10:124],[M10:151],[M10:39],[M10:39],[M10:39])([M10:3],[M10:133],[M10:13],[M10:25])([M10:29])([M10:142])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,50)|([M10:234],[M10:208],[M10:237],[M10:248])([M10:116],[M10:123],[M10:100],[M10:95],[M10:88],[M10:83])([M10:56],[M10:162],[M10:46],[M10:68])([M10:203],[M10:162],[M10:35],[M10:32])([M10:160],[M10:18])([M10:7])

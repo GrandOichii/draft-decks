@@ -1,0 +1,49 @@
+1 [10E:125] Afflict
+2 [10E:140] Dusk Imp
+2 [10E:143] Festering Goblin
+1 [10E:144] Grave Pact
+1 [10E:152] Knight of Dusk
+1 [10E:153] Looming Shade
+1 [10E:167] Phyrexian Rager
+2 [10E:172] Recover
+1 [10E:180] Spineless Thug
+1 [10E:185] Unholy Strength
+2 [10E:201] Fists of the Anvil
+1 [10E:202] Flamewave Invoker
+1 [10E:205] Furnace Whelp
+1 [10E:212] Hill Giant
+2 [10E:215] Lava Axe
+1 [10E:232] Shock
+1 [10E:240] Stun
+1 [10E:244] Uncontrollable Anger
+2 [10E:376] Mountain
+2 [10E:379] Mountain
+1 [10E:378] Mountain
+2 [10E:377] Mountain
+5 [10E:374] Swamp
+1 [10E:372] Swamp
+2 [10E:373] Swamp
+2 [10E:375] Swamp
+SB: 1 [10E:352] Forbidding Watchtower
+SB: 1 [10E:55] Venerable Monk
+SB: 1 [10E:122] Unsummon
+SB: 1 [10E:76] Counsel of the Soratami
+SB: 1 [10E:304] Treetop Bracers
+SB: 1 [10E:382] Forest
+SB: 1 [10E:26] Loxodon Mystic
+SB: 1 [10E:92] Merfolk Looter
+SB: 1 [10E:298] Spined Wurm
+SB: 1 [10E:276] Lure
+SB: 1 [10E:369] Island
+SB: 1 [10E:105] Scalpelexis
+SB: 1 [10E:297] Skyshroud Ranger
+SB: 1 [10E:365] Plains
+SB: 1 [10E:364] Plains
+SB: 1 [10E:68] Aven Fisher
+SB: 1 [10E:134] Deathmark
+SB: 1 [10E:215] Lava Axe
+SB: 2 [10E:138] Dross Crocodile
+SB: 1 [10E:175] Scathe Zombies
+SB: 1 [10E:173] Relentless Rats
+LAYOUT MAIN:(1,6)(CMC,false,50)|([10E:376],[10E:379],[10E:376],[10E:378],[10E:377],[10E:377],[10E:379],[10E:374],[10E:372],[10E:373],[10E:374],[10E:374],[10E:375],[10E:374],[10E:374],[10E:375],[10E:373])([10E:143],[10E:143],[10E:232],[10E:185])([10E:201],[10E:201],[10E:180],[10E:240])([10E:125],[10E:140],[10E:140],[10E:202],[10E:152],[10E:153],[10E:167],[10E:172],[10E:172])([10E:205],[10E:144],[10E:212],[10E:244])([10E:215],[10E:215])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,50)|([10E:352],[10E:382],[10E:369],[10E:365],[10E:364])([10E:76],[10E:92],[10E:105],[10E:122],[10E:68])([10E:276],[10E:297],[10E:298],[10E:304])([10E:26],[10E:55])([10E:134],[10E:215],[10E:138],[10E:138],[10E:175],[10E:173])

@@ -1,0 +1,48 @@
+1 [M12:147] Inferno Titan
+1 [M12:58] Jace, Memory Adept
+2 [M12:57] Ice Cage
+1 [M12:44] Aven Fleetwing
+1 [M12:65] Merfolk Looter
+3 [M12:41] Aether Adept
+1 [M12:75] Skywinder Drake
+1 [M12:73] Ponder
+1 [M12:78] Turn to Frog
+1 [M12:48] Chasm Drake
+2 [M12:35] Spirit Mantle
+1 [M12:14] Divine Favor
+1 [M12:6] Archon of Justice
+1 [M12:33] Serra Angel
+2 [M12:38] Stormfront Pegasus
+1 [M12:21] Griffin Sentinel
+1 [M12:12] Day of Judgment
+1 [M12:31] Pride Guardian
+4 [M12:237] Island
+2 [M12:234] Island
+2 [M12:235] Island
+2 [M12:244] Mountain
+1 [M12:242] Mountain
+2 [M12:232] Plains
+3 [M12:230] Plains
+1 [M12:231] Plains
+SB: 1 [M12:84] Brink of Disaster
+SB: 2 [M12:163] Arachnus Web
+SB: 1 [M12:119] Zombie Goliath
+SB: 1 [M12:233] Plains
+SB: 1 [M12:121] Act of Treason
+SB: 1 [M12:89] Dark Favor
+SB: 1 [M12:232] Plains
+SB: 1 [M12:100] Hideous Visage
+SB: 1 [M12:93] Disentomb
+SB: 1 [M12:136] Goblin Arsonist
+SB: 1 [M12:237] Island
+SB: 1 [M12:54] Frost Breath
+SB: 1 [M12:49] Coral Merfolk
+SB: 1 [M12:69] Negate
+SB: 2 [M12:24] Lifelink
+SB: 1 [M12:53] Flight
+SB: 1 [M12:70] Phantasmal Bear
+SB: 1 [M12:36] Stave Off
+SB: 1 [M12:127] Circle of Flame
+SB: 1 [M12:75] Skywinder Drake
+LAYOUT MAIN:(1,7)(CMC,false,50)|([M12:237],[M12:234],[M12:235],[M12:234],[M12:237],[M12:237],[M12:235],[M12:237],[M12:244],[M12:242],[M12:244],[M12:232],[M12:232],[M12:230],[M12:230],[M12:230],[M12:231])([M12:73],[M12:31])([M12:14],[M12:57],[M12:57],[M12:65],[M12:35],[M12:35],[M12:38],[M12:38],[M12:78])([M12:41],[M12:41],[M12:41],[M12:21],[M12:75])([M12:44],[M12:12])([M12:6],[M12:48],[M12:58],[M12:33])([M12:147])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,50)|([M12:233],[M12:232],[M12:237])([M12:84],[M12:119],[M12:89],[M12:24],[M12:70],[M12:53],[M12:100],[M12:36],[M12:24],[M12:93])([M12:163],[M12:163],[M12:127])([M12:121],[M12:136],[M12:75])([M12:54],[M12:69],[M12:49])

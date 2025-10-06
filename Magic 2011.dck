@@ -1,0 +1,48 @@
+1 [M11:67] Mind Control
+1 [M11:46] Azure Drake
+2 [M11:69] Phantom Beast
+1 [M11:70] Preordain
+2 [M11:57] Ice Cage
+1 [M11:79] Wall of Frost
+3 [M11:72] Scroll Thief
+1 [M11:43] Alluring Siren
+1 [M11:73] Sleep
+1 [M11:45] Augury Owl
+1 [M11:80] Water Servant
+2 [M11:78] Unsummon
+1 [M11:56] Harbor Serpent
+1 [M11:144] Hoarding Dragon
+1 [M11:152] Prodigal Pyromancer
+1 [M11:158] Volcanic Strength
+1 [M11:149] Lightning Bolt
+1 [M11:139] Fling
+5 [M11:236] Island
+2 [M11:235] Island
+2 [M11:237] Island
+3 [M11:234] Island
+3 [M11:242] Mountain
+1 [M11:244] Mountain
+1 [M11:245] Mountain
+SB: 1 [M11:107] Necrotic Plague
+SB: 1 [M11:11] Condemn
+SB: 1 [M11:36] Tireless Missionaries
+SB: 1 [M11:191] Primal Cocoon
+SB: 1 [M11:248] Forest
+SB: 2 [M11:206] Elixir of Immortality
+SB: 1 [M11:229] Terramorphic Expanse
+SB: 1 [M11:112] Reassembling Skeleton
+SB: 1 [M11:241] Swamp
+SB: 1 [M11:209] Juggernaut
+SB: 1 [M11:16] Holy Strength
+SB: 1 [M11:105] Mind Rot
+SB: 1 [M11:40] Wild Griffin
+SB: 1 [M11:18] Infantry Veteran
+SB: 1 [M11:173] Fog
+SB: 1 [M11:247] Forest
+SB: 1 [M11:61] Leyline of Anticipation
+SB: 1 [M11:59] Jace's Erasure
+SB: 1 [M11:68] Negate
+SB: 1 [M11:76] Tome Scour
+SB: 1 [M11:78] Unsummon
+LAYOUT MAIN:(1,7)(CMC,false,50)|([M11:236],[M11:236],[M11:236],[M11:235],[M11:237],[M11:234],[M11:236],[M11:234],[M11:236],[M11:235],[M11:234],[M11:237],[M11:242],[M11:244],[M11:242],[M11:242],[M11:245])([M11:149],[M11:70],[M11:78],[M11:78])([M11:43],[M11:45],[M11:139],[M11:57],[M11:57],[M11:158])([M11:152],[M11:72],[M11:72],[M11:72],[M11:79])([M11:46],[M11:69],[M11:69],[M11:73],[M11:80])([M11:144],[M11:67])([M11:56])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,50)|([M11:248],[M11:206],[M11:206],[M11:229],[M11:241],[M11:209],[M11:247])([M11:107],[M11:112],[M11:105])([M11:191],[M11:173],[M11:78])([M11:11],[M11:36],[M11:16],[M11:40],[M11:18],[M11:76])([M11:61],[M11:59],[M11:68])

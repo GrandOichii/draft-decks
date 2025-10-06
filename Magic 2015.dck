@@ -1,0 +1,44 @@
+1 [M15:66] Kapsho Kitefins
+1 [M15:55] Frost Lynx
+1 [M15:45] Amphin Pathmage
+2 [M15:49] Coral Barrier
+2 [M15:52] Divination
+1 [M15:46] Chasm Skulker
+1 [M15:78] Soul of Ravnica
+1 [M15:28] Resolute Archangel
+1 [M15:3] Avacyn, Guardian Angel
+3 [M15:17] Marked by Honor
+2 [M15:16] Kinsbaile Skirmisher
+2 [M15:38] Sungrace Pegasus
+1 [M15:7] Constricting Sliver
+1 [M15:40] Triplicate Spirits
+1 [M15:6] Congregate
+1 [M15:10] Divine Favor
+1 [M15:26] Raise the Alarm
+5 [M15:257] Island
+2 [M15:255] Island
+3 [M15:253] Plains
+4 [M15:251] Plains
+2 [M15:252] Plains
+1 [M15:250] Plains
+SB: 1 [M15:216] Gargoyle Sentinel
+SB: 1 [M15:171] Charging Rhino
+SB: 1 [M15:94] Endless Obedience
+SB: 1 [M15:259] Swamp
+SB: 1 [M15:105] Necrobite
+SB: 1 [M15:268] Forest
+SB: 1 [M15:243] Evolving Wilds
+SB: 1 [M15:184] Living Totem
+SB: 1 [M15:251] Plains
+SB: 1 [M15:261] Swamp
+SB: 1 [M15:82] Void Snare
+SB: 1 [M15:58] Hydrosurge
+SB: 1 [M15:56] Fugitive Wizard
+SB: 4 [M15:61] Invisibility
+SB: 1 [M15:74] Peel from Reality
+SB: 1 [M15:77] Research Assistant
+SB: 1 [M15:43] Aeronaut Tinkerer
+SB: 1 [M15:48] Chronostutter
+SB: 1 [M15:16] Kinsbaile Skirmisher
+LAYOUT MAIN:(1,7)(CMC,false,50)|([M15:257],[M15:255],[M15:257],[M15:257],[M15:257],[M15:255],[M15:257],[M15:253],[M15:251],[M15:252],[M15:251],[M15:253],[M15:251],[M15:252],[M15:250],[M15:253],[M15:251])([M15:10],[M15:16],[M15:16],[M15:26],[M15:38],[M15:38])([M15:46],[M15:49],[M15:49],[M15:52],[M15:52],[M15:55])([M15:45],[M15:6],[M15:17],[M15:17],[M15:17])([M15:3])([M15:7],[M15:66],[M15:78],[M15:40])([M15:28])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,50)|([M15:216],[M15:259],[M15:268],[M15:243],[M15:251],[M15:261])([M15:94],[M15:105])([M15:171],[M15:184],[M15:16],[M15:61],[M15:61])([M15:82],[M15:58],[M15:56],[M15:43],[M15:61],[M15:61],[M15:74],[M15:77])([M15:48])
