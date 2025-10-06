@@ -1,0 +1,48 @@
+1 [8ED:236] Canopy Spider
+1 [8ED:250] Fungusaur
+1 [8ED:257] Horned Troll
+2 [8ED:254] Giant Growth
+2 [8ED:267] Moss Monster
+2 [8ED:274] Rampant Growth
+1 [8ED:287] Vine Trellis
+1 [8ED:36] Razorfoot Griffin
+1 [8ED:55] Venerable Monk
+1 [8ED:9] Chastise
+2 [8ED:2] Angelic Page
+1 [8ED:33] Pacifism
+1 [8ED:45] Serra Angel
+1 [8ED:41] Samite Healer
+1 [8ED:19] Elite Javelineer
+1 [8ED:34] Peach Garden Oath
+1 [8ED:15] Crossbow Infantry
+1 [8ED:5] Aven Cloudchaser
+1 [8ED:51] Suntail Hawk
+1 [8ED:47] Spirit Link
+2 [8ED:350] Forest
+2 [8ED:349] Forest
+2 [8ED:347] Forest
+1 [8ED:348] Forest
+3 [8ED:333] Plains
+3 [8ED:334] Plains
+3 [8ED:331] Plains
+SB: 1 [8ED:221] Shivan Dragon
+SB: 1 [8ED:320] Wall of Spears
+SB: 2 [8ED:72] Curiosity
+SB: 1 [8ED:63] Boomerang
+SB: 1 [8ED:213] Reflexes
+SB: 1 [8ED:95] Remove Soul
+SB: 1 [8ED:80] Flight
+SB: 1 [8ED:84] Index
+SB: 2 [8ED:341] Swamp
+SB: 1 [8ED:88] Mahamoti Djinn
+SB: 1 [8ED:104] Storm Crow
+SB: 1 [8ED:87] Invisibility
+SB: 1 [8ED:101] Sneaky Homunculus
+SB: 1 [8ED:337] Island
+SB: 1 [8ED:343] Mountain
+SB: 1 [8ED:335] Island
+SB: 1 [8ED:35] Rain of Blades
+SB: 1 [8ED:278] Rushwood Dryad
+SB: 1 [8ED:40] Sacred Nectar
+LAYOUT MAIN:(1,6)(CMC,false,50)|([8ED:350],[8ED:350],[8ED:349],[8ED:347],[8ED:347],[8ED:349],[8ED:348],[8ED:333],[8ED:334],[8ED:333],[8ED:331],[8ED:334],[8ED:333],[8ED:331],[8ED:334],[8ED:331])([8ED:254],[8ED:254],[8ED:34],[8ED:47],[8ED:51])([8ED:2],[8ED:2],[8ED:236],[8ED:15],[8ED:33],[8ED:274],[8ED:274],[8ED:41],[8ED:287])([8ED:19],[8ED:257],[8ED:55])([8ED:5],[8ED:9],[8ED:250],[8ED:36])([8ED:267],[8ED:267],[8ED:45])
+LAYOUT SIDEBOARD:(1,4)(COLOR,false,50)|([8ED:320],[8ED:341],[8ED:341],[8ED:337],[8ED:343],[8ED:335])([8ED:72],[8ED:63],[8ED:95],[8ED:80],[8ED:84],[8ED:88],[8ED:104],[8ED:87],[8ED:101],[8ED:72])([8ED:221],[8ED:213],[8ED:35],[8ED:40])([8ED:278])

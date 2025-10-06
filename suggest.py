@@ -18,4 +18,4 @@ if len(not_drafted) == 0:
     print('\nAll sets drafted! Congrats!')
     exit(0)
 
-print(f'\nSuggestion for next set to draft: {not_drafted[random.randint(0, len(not_drafted))]}')
+print(f'\nSuggestion for next set to draft: {not_drafted[random.randint(0, len(not_drafted)-1)]}')
