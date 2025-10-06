@@ -1,0 +1,35 @@
+2 [LEG:29] Osai Vultures
+2 [LEG:36] Shield Wall
+2 [LEG:24] Keepers of the Faith
+1 [LEG:21] Indestructible Aura
+1 [LEG:26] Land Tax
+2 [LEG:7] D'Avenant Archer
+1 [LEG:40] Tundra Wolves
+1 [LEG:20] Holy Day
+2 [LEG:195] Moss Monster
+1 [LEG:205] Storm Seeker
+1 [LEG:182] Durkwood Boars
+4 [LEG:190] Hornet Cobra
+1 [LEG:176] Barbary Apes
+1 [LEG:199] Radjan Spirit
+1 [LEG:188] Giant Turtle
+10 [G17:5] Forest
+7 [G17:1] Plains
+SB: 1 [LEG:137] Chain Lightning
+SB: 2 [LEG:84] Wall of Vapor
+SB: 2 [LEG:86] Zephyr Falcon
+SB: 2 [LEG:72] Remove Soul
+SB: 1 [LEG:125] Vampire Bats
+SB: 3 [LEG:117] Spirit Shackle
+SB: 1 [LEG:59] Gaseous Form
+SB: 1 [LEG:167] The Brute
+SB: 1 [LEG:237] Kasimir the Lone Wolf
+SB: 1 [LEG:45] Anti-Magic Aura
+SB: 1 [LEG:54] Energy Tap
+SB: 1 [LEG:34] Righteous Avengers
+SB: 1 [LEG:2] Alabaster Potion
+SB: 2 [LEG:3] Amrou Kithkin
+SB: 1 [LEG:9] Divine Offering
+SB: 1 [LEG:18] Greater Realm of Preservation
+LAYOUT MAIN:(1,6)(CMC,false,50)|([G17:5],[G17:5],[G17:5],[G17:5],[G17:5],[G17:5],[G17:5],[G17:5],[G17:5],[G17:5],[G17:1],[G17:1],[G17:1],[G17:1],[G17:1],[G17:1],[G17:1])([LEG:20],[LEG:21],[LEG:26],[LEG:40])([LEG:176],[LEG:29],[LEG:29],[LEG:36],[LEG:36])([LEG:7],[LEG:7],[LEG:188],[LEG:190],[LEG:190],[LEG:190],[LEG:190],[LEG:24],[LEG:24])([LEG:199],[LEG:205])([LEG:182],[LEG:195],[LEG:195])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,50)|([LEG:125],[LEG:117],[LEG:117],[LEG:117])([LEG:84],[LEG:86],[LEG:84],[LEG:72],[LEG:72],[LEG:59],[LEG:86],[LEG:45],[LEG:54])([LEG:3],[LEG:3],[LEG:2],[LEG:137],[LEG:167],[LEG:18],[LEG:9])([LEG:237])([LEG:34])
