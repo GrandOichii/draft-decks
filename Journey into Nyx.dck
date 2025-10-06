@@ -1,0 +1,41 @@
+1 [JOU:2] Ajani's Presence
+2 [JOU:3] Akroan Mastiff
+1 [JOU:60] Aspect of Gorgon
+1 [JOU:6] Dawnbringer Charioteers
+1 [JOU:8] Dictate of Heliod
+1 [JOU:66] Doomwake Giant
+2 [JOU:9] Eagle of the Watch
+2 [JOU:14] Lagonna-Band Trailblazer
+1 [JOU:76] Nightmarish End
+3 [JOU:77] Nyx Infusion
+1 [JOU:78] Pharika's Chosen
+1 [JOU:82] Silence the Believers
+2 [JOU:19] Oppressive Rays
+1 [JOU:20] Oreskos Swiftclaw
+1 [JOU:21] Phalanx Formation
+2 [JOU:28] Supply-Line Cranes
+7 [THS:231] Plains
+2 [THS:233] Plains
+2 [THS:230] Plains
+2 [THS:239] Swamp
+1 [THS:238] Swamp
+2 [THS:241] Swamp
+1 [THS:240] Swamp
+SB: 1 [THS:249] Forest
+SB: 2 [THS:244] Mountain
+SB: 1 [JOU:19] Oppressive Rays
+SB: 1 [JOU:2] Ajani's Presence
+SB: 1 [JOU:27] Stonewise Fortifier
+SB: 3 [JOU:11] Font of Vigor
+SB: 1 [JOU:71] Font of Return
+SB: 2 [JOU:61] Bloodcrazed Hoplite
+SB: 1 [JOU:10] Eidolon of Rhetoric
+SB: 1 [JOU:3] Akroan Mastiff
+SB: 2 [JOU:81] Rotted Hulk
+SB: 1 [JOU:67] Dreadbringer Lampads
+SB: 2 [JOU:78] Pharika's Chosen
+SB: 1 [JOU:14] Lagonna-Band Trailblazer
+SB: 1 [JOU:28] Supply-Line Cranes
+SB: 1 [JOU:13] Harvestguard Alseids
+LAYOUT MAIN:(1,6)(CMC,false,50)|([THS:231],[THS:233],[THS:230],[THS:231],[THS:231],[THS:231],[THS:233],[THS:231],[THS:231],[THS:231],[THS:230],[THS:239],[THS:238],[THS:241],[THS:241],[THS:239],[THS:240])([JOU:2],[JOU:14],[JOU:14],[JOU:19],[JOU:19],[JOU:78])([JOU:20])([JOU:60],[JOU:9],[JOU:9],[JOU:76],[JOU:77],[JOU:77],[JOU:77],[JOU:21])([JOU:3],[JOU:3],[JOU:6],[JOU:82])([JOU:8],[JOU:66],[JOU:28],[JOU:28])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,50)|([THS:249],[THS:244],[THS:244])([JOU:11],[JOU:19],[JOU:2],[JOU:27],[JOU:11],[JOU:14],[JOU:11],[JOU:71],[JOU:61],[JOU:78],[JOU:78])([JOU:10],[JOU:13],[JOU:61])([JOU:81],[JOU:3],[JOU:81])([JOU:67],[JOU:28])
