@@ -1,0 +1,52 @@
+1 [AKR:61] Eternal of Harsh Truths
+1 [AKR:84] Trial of Knowledge
+1 [AKR:48] Ancient Crab
+1 [AKR:77] Seer of the Last Tomorrow
+1 [AKR:67] Labyrinth Guardian
+1 [AKR:80] Spellweaver Eternal
+2 [AKR:47] Aerial Guide
+1 [AKR:79] Slither Blade
+1 [AKR:55] Compelling Argument
+1 [AKR:68] Lay Claim
+1 [AKR:114] Lord of the Accursed
+1 [AKR:106] Final Reward
+1 [AKR:105] Festering Mummy
+1 [AKR:104] Dune Beetle
+1 [AKR:119] Pitiless Vizier
+1 [AKR:122] Scarab Feast
+1 [AKR:53] Champion of Wits
+1 [AKR:59] Drake Haven
+1 [AKR:69] Naga Oracle
+2 [AKR:60] Essence Scatter
+1 [AKR:290] Desert of the Mindful
+1 [AKR:56] Countervailing Winds
+1 [AKR:308] Island
+5 [AKR:310] Island
+1 [AKR:307] Island
+1 [AKR:305] Island
+1 [AKR:311] Island
+1 [AKR:306] Island
+1 [AKR:309] Island
+2 [AKR:336] Swamp
+2 [AKR:335] Swamp
+1 [AKR:338] Swamp
+SB: 1 [AKR:259] The Scarab God
+SB: 1 [AKR:191] Feral Prowler
+SB: 1 [AKR:206] Ornery Kudu
+SB: 1 [AKR:182] Beneath the Sands
+SB: 1 [AKR:331] Sunscorched Desert
+SB: 1 [AKR:25] In Oketra's Name
+SB: 1 [AKR:287] Desert of the Fervent
+SB: 1 [AKR:309] Island
+SB: 1 [AKR:9] Cast Out
+SB: 1 [AKR:228] Aven Wind Guide
+SB: 1 [AKR:338] Swamp
+SB: 1 [AKR:17] Fan Bearer
+SB: 1 [AKR:311] Island
+SB: 1 [AKR:88] Vizier of the Anointed
+SB: 1 [AKR:56] Countervailing Winds
+SB: 1 [AKR:77] Seer of the Last Tomorrow
+SB: 1 [AKR:81] Strategic Planning
+SB: 1 [AKR:76] Seeker of Insight
+LAYOUT MAIN:(1,7)(CMC,false,50)|([AKR:290],[AKR:308],[AKR:310],[AKR:307],[AKR:305],[AKR:311],[AKR:310],[AKR:306],[AKR:310],[AKR:309],[AKR:310],[AKR:310],[AKR:336],[AKR:335],[AKR:338],[AKR:335],[AKR:336])([AKR:105],[AKR:122],[AKR:79])([AKR:55],[AKR:104],[AKR:60],[AKR:60],[AKR:67],[AKR:80])([AKR:47],[AKR:47],[AKR:48],[AKR:53],[AKR:59],[AKR:61],[AKR:114],[AKR:77],[AKR:56])([AKR:69],[AKR:119],[AKR:84])([AKR:106])([AKR:68])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,50)|([AKR:331],[AKR:287],[AKR:309],[AKR:338],[AKR:311])([AKR:191],[AKR:206],[AKR:182])([AKR:25],[AKR:9],[AKR:17])([AKR:259],[AKR:228],[AKR:77],[AKR:81],[AKR:76])([AKR:88],[AKR:56])
