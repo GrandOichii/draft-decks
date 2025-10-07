@@ -1,0 +1,43 @@
+2 [PLS:56] Volcano Imp
+2 [PLS:50] Phyrexian Bloodstock
+3 [PLS:48] Nightscape Familiar
+1 [PLS:46] Morgue Toad
+1 [PLS:54] Sinister Strength
+1 [PLS:45] Maggot Carrier
+1 [PLS:74] Tahngarth, Talruum Hero
+1 [PLS:76] Thunderscape Familiar
+3 [PLS:65] Keldon Mantle
+1 [PLS:64] Kavu Recluse
+2 [PLS:63] Insolence
+3 [PLS:66] Magma Burst
+1 [PLS:72] Slingshot Goblin
+1 [PLS:128] Terminate
+5 [AKR:313] Mountain
+1 [AKR:316] Mountain
+1 [AKR:312] Mountain
+1 [AKR:315] Mountain
+1 [AKR:318] Mountain
+1 [AKR:314] Mountain
+2 [AKR:336] Swamp
+1 [AKR:334] Swamp
+1 [AKR:335] Swamp
+1 [AKR:338] Swamp
+1 [AKR:333] Swamp
+1 [AKR:337] Swamp
+SB: 3 [PLS:95] Thornscape Familiar
+SB: 2 [PLS:109] Gerrard's Command
+SB: 1 [PLS:8] Honorable Scout
+SB: 4 [PLS:6] Heroic Defiance
+SB: 1 [PLS:97] Cavern Harpy
+SB: 1 [PLS:16] Sunscape Battlemage
+SB: 2 [PLS:33] Sisay's Ingenuity
+SB: 1 [PLS:3] Disciple of Kangee
+SB: 1 [PLS:2] Aurora Griffin
+SB: 1 [PLS:81] Gaea's Might
+SB: 1 [PLS:79] Falling Timber
+SB: 1 [PLS:87] Primal Growth
+SB: 1 [PLS:39] Bog Down
+SB: 1 [PLS:53] Shriek of Dread
+SB: 1 [PLS:64] Kavu Recluse
+LAYOUT MAIN:(1,6)(CMC,false,50)|([AKR:313],[AKR:316],[AKR:312],[AKR:313],[AKR:315],[AKR:313],[AKR:313],[AKR:318],[AKR:314],[AKR:313],[AKR:336],[AKR:334],[AKR:335],[AKR:338],[AKR:333],[AKR:337],[AKR:336])([PLS:45])([PLS:65],[PLS:65],[PLS:65],[PLS:48],[PLS:48],[PLS:48],[PLS:54],[PLS:128],[PLS:76])([PLS:63],[PLS:63],[PLS:64],[PLS:46],[PLS:72])([PLS:66],[PLS:66],[PLS:66],[PLS:56],[PLS:56])([PLS:50],[PLS:50],[PLS:74])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,50)|([PLS:33],[PLS:33])([PLS:95],[PLS:95],[PLS:95],[PLS:81],[PLS:79],[PLS:87])([PLS:8],[PLS:6],[PLS:16],[PLS:3],[PLS:6],[PLS:2],[PLS:6],[PLS:6])([PLS:109],[PLS:97],[PLS:109])([PLS:39],[PLS:53],[PLS:64])
