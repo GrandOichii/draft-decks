@@ -1,0 +1,30 @@
+4 [STH:26] Cloud Spirit
+3 [STH:42] Sift
+1 [STH:32] Hammerhead Shark
+3 [STH:29] Dream Prowler
+3 [STH:35] Leap
+1 [STH:36] Mana Leak
+3 [STH:96] Seething Anger
+1 [STH:82] Fling
+1 [STH:98] Shock
+1 [STH:84] Flowstone Hellion
+2 [STH:92] Mogg Flunkies
+11 [G17:2] Island
+6 [G17:4] Mountain
+SB: 2 [STH:57] Death Stroke
+SB: 1 [STH:67] Rabid Rats
+SB: 2 [STH:121] Spined Wurm
+SB: 3 [STH:69] Serpent Warrior
+SB: 2 [STH:5] Conviction
+SB: 2 [STH:109] Lowland Basilisk
+SB: 1 [STH:120] Spike Worker
+SB: 1 [STH:113] Provoke
+SB: 1 [STH:58] Dungeon Shade
+SB: 1 [STH:115] Skyshroud Troopers
+SB: 1 [STH:25] Youthful Knight
+SB: 2 [STH:87] Furnace Spirit
+SB: 1 [STH:76] Amok
+SB: 1 [STH:79] Duct Crawler
+SB: 1 [STH:96] Seething Anger
+LAYOUT MAIN:(1,6)(CMC,false,50)|([G17:2],[G17:2],[G17:2],[G17:2],[G17:2],[G17:2],[G17:2],[G17:2],[G17:2],[G17:2],[G17:2],[G17:4],[G17:4],[G17:4],[G17:4],[G17:4],[G17:4])([STH:35],[STH:35],[STH:35],[STH:96],[STH:96],[STH:96],[STH:98])([STH:82],[STH:32],[STH:36],[STH:92],[STH:92])([STH:26],[STH:26],[STH:26],[STH:26])([STH:29],[STH:29],[STH:29],[STH:42],[STH:42],[STH:42])([STH:84])
+LAYOUT SIDEBOARD:(1,3)(COLOR,false,50)|([STH:57],[STH:67],[STH:69],[STH:57],[STH:69],[STH:58],[STH:69])([STH:121],[STH:109],[STH:120],[STH:109],[STH:113],[STH:121],[STH:115])([STH:76],[STH:5],[STH:25],[STH:5],[STH:87],[STH:87],[STH:79],[STH:96])
