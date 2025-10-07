@@ -1,0 +1,39 @@
+1 [ISD:90] Bloodline Keeper
+2 [ISD:116] Skeletal Grimace
+1 [ISD:114] Screeching Bat
+1 [ISD:125] Village Cannibals
+1 [ISD:86] Altar's Reap
+2 [ISD:124] Victim of Night
+3 [ISD:145] Hanweir Watchkeep
+1 [ISD:158] Rakish Heir
+1 [ISD:135] Crossway Vampire
+3 [ISD:153] Night Revelers
+2 [ISD:143] Furor of the Bitten
+1 [ISD:160] Riot Devils
+2 [ISD:156] Pitchburn Devils
+1 [ISD:137] Curse of the Nightly Hunt
+1 [ISD:154] Nightbird's Clutches
+3 [ISD:259] Mountain
+2 [ISD:260] Mountain
+4 [ISD:261] Mountain
+3 [ISD:257] Swamp
+5 [ISD:258] Swamp
+SB: 1 [ISD:48] Claustrophobia
+SB: 1 [ISD:219] Cobbled Wings
+SB: 1 [ISD:224] Ghoulcaller's Bell
+SB: 1 [ISD:260] Mountain
+SB: 1 [ISD:50] Curse of the Bloody Tome
+SB: 1 [ISD:75] Silent Departure
+SB: 1 [ISD:262] Forest
+SB: 1 [ISD:92] Bump in the Night
+SB: 2 [ISD:95] Curse of Oblivion
+SB: 1 [ISD:101] Ghoulcaller's Chant
+SB: 1 [ISD:74] Sensory Deprivation
+SB: 1 [ISD:255] Island
+SB: 3 [ISD:113] Rotting Fensnake
+SB: 2 [ISD:91] Brain Weevil
+SB: 2 [ISD:102] Ghoulraiser
+SB: 1 [ISD:103] Gruesome Deformity
+SB: 1 [ISD:153] Night Revelers
+LAYOUT MAIN:(1,6)(CMC,false,50)|([ISD:259],[ISD:259],[ISD:260],[ISD:261],[ISD:261],[ISD:261],[ISD:261],[ISD:260],[ISD:259],[ISD:257],[ISD:257],[ISD:257],[ISD:258],[ISD:258],[ISD:258],[ISD:258],[ISD:258])([ISD:143],[ISD:143])([ISD:86],[ISD:116],[ISD:116],[ISD:124],[ISD:124],[ISD:154])([ISD:135],[ISD:137],[ISD:145],[ISD:145],[ISD:145],[ISD:158],[ISD:160],[ISD:114],[ISD:125])([ISD:90])([ISD:153],[ISD:153],[ISD:153],[ISD:156],[ISD:156])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,50)|([ISD:219],[ISD:224],[ISD:260],[ISD:262],[ISD:255])([ISD:92],[ISD:95],[ISD:101],[ISD:95])([ISD:48],[ISD:50],[ISD:75],[ISD:74])([ISD:91],[ISD:91],[ISD:113],[ISD:113],[ISD:113],[ISD:102],[ISD:102])([ISD:103],[ISD:153])

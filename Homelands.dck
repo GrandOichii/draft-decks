@@ -1,0 +1,44 @@
+2 [HML:59a] Torture
+2 [HML:57a] Sengir Bats
+1 [HML:47a] Feast of the Unicorn
+2 [HML:44b] Cemetery Gate
+1 [HML:42] Black Carriage
+1 [HML:59b] Torture
+1 [HML:57b] Sengir Bats
+2 [HML:48] Funeral March
+1 [HML:50] Grandmother Sengir
+1 [HML:47b] Feast of the Unicorn
+2 [HML:67a] Anaba Shaman
+1 [HML:66b] Anaba Bodyguard
+2 [HML:61a] Aliban's Tower
+2 [HML:62] Ambush
+1 [HML:63a] Ambush Party
+1 [HML:67b] Anaba Shaman
+1 [AKR:317] Mountain
+2 [AKR:312] Mountain
+1 [AKR:318] Mountain
+2 [AKR:313] Mountain
+2 [AKR:337] Swamp
+2 [AKR:334] Swamp
+1 [AKR:338] Swamp
+2 [AKR:333] Swamp
+3 [AKR:336] Swamp
+1 [AKR:332] Swamp
+SB: 1 [HML:30b] Labyrinth Minotaur
+SB: 1 [HML:36a] Reef Pirates
+SB: 1 [HML:10a] Mesa Falcon
+SB: 1 [HML:84a] Carapace
+SB: 1 [HML:87b] Folk of An-Havva
+SB: 2 [HML:99a] Willow Faerie
+SB: 1 [HML:97b] Shrink
+SB: 1 [HML:10b] Mesa Falcon
+SB: 1 [HML:99b] Willow Faerie
+SB: 1 [HML:3a] Aysen Bureaucrats
+SB: 1 [HML:87a] Folk of An-Havva
+SB: 1 [HML:33] Merchant Scroll
+SB: 3 [HML:72b] Dwarven Trader
+SB: 1 [HML:72a] Dwarven Trader
+SB: 1 [HML:69] Chandler
+SB: 1 [HML:67b] Anaba Shaman
+LAYOUT MAIN:(1,6)(CMC,false,50)|([AKR:317],[AKR:312],[AKR:318],[AKR:313],[AKR:312],[AKR:313],[AKR:337],[AKR:334],[AKR:338],[AKR:334],[AKR:333],[AKR:337],[AKR:336],[AKR:333],[AKR:332],[AKR:336],[AKR:336])([HML:59a],[HML:59a],[HML:59b])([HML:61a],[HML:61a])([HML:44b],[HML:44b],[HML:48],[HML:48],[HML:57a],[HML:57a],[HML:57b])([HML:62],[HML:62],[HML:66b],[HML:67a],[HML:67a],[HML:67b],[HML:47a],[HML:47b])([HML:63a],[HML:42],[HML:50])
+LAYOUT SIDEBOARD:(1,4)(COLOR,false,50)|([HML:30b],[HML:36a],[HML:33])([HML:84a],[HML:87b],[HML:99a],[HML:97b],[HML:99b],[HML:87a],[HML:99a])([HML:10a],[HML:10b],[HML:3a])([HML:72b],[HML:72a],[HML:72b],[HML:69],[HML:67b],[HML:72b])
