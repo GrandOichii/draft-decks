@@ -1,0 +1,41 @@
+2 [P02:57] Time Ebb
+2 [P02:79] Moaning Spirit
+2 [P02:68] Dakmor Bat
+1 [P02:72] Dark Offering
+2 [P02:44] Screeching Drake
+1 [P02:82] Predatory Nightstalker
+2 [P02:59] Undo
+3 [P02:67] Cruel Edict
+1 [P02:40] False Summoning
+2 [P02:47] Steam Frigate
+1 [P02:32] Apprentice Sorcerer
+2 [P02:31] Air Elemental
+1 [P02:90] Vampiric Spirit
+1 [P02:48] Talas Air Ship
+1 [P02:50] Talas Merchant
+4 [P02:156] Island
+3 [P02:154] Island
+2 [P02:155] Island
+4 [P02:157] Swamp
+2 [P02:158] Swamp
+1 [P02:159] Swamp
+SB: 1 [P02:136] Norwood Archers
+SB: 1 [P02:30] Wild Griffin
+SB: 2 [P02:15] Breath of Life
+SB: 1 [P02:20] Righteous Charge
+SB: 1 [P02:10] Angelic Wall
+SB: 1 [P02:46] Sleight of Hand
+SB: 1 [P02:80] Muck Rats
+SB: 1 [P02:65] Chorus of Woe
+SB: 1 [P02:49] Talas Explorer
+SB: 1 [P02:60] Wind Sail
+SB: 2 [P02:56] Tidal Surge
+SB: 2 [P02:52] Talas Scout
+SB: 1 [P02:59] Undo
+SB: 1 [P02:57] Time Ebb
+SB: 1 [P02:47] Steam Frigate
+SB: 1 [P02:79] Moaning Spirit
+SB: 1 [P02:67] Cruel Edict
+SB: 1 [P02:86] Raise Dead
+LAYOUT MAIN:(1,6)(CMC,false,50)|([P02:156],[P02:154],[P02:156],[P02:154],[P02:154],[P02:156],[P02:156],[P02:155],[P02:155],[P02:157],[P02:157],[P02:158],[P02:157],[P02:158],[P02:159],[P02:157])([P02:67],[P02:67],[P02:67],[P02:68],[P02:68],[P02:40],[P02:50])([P02:32],[P02:79],[P02:79],[P02:47],[P02:47],[P02:57],[P02:57],[P02:59],[P02:59])([P02:44],[P02:44],[P02:48],[P02:90])([P02:31],[P02:31],[P02:82])([P02:72])
+LAYOUT SIDEBOARD:(1,4)(COLOR,false,50)|([P02:136])([P02:30],[P02:15],[P02:15],[P02:20],[P02:10])([P02:46],[P02:80],[P02:65],[P02:49],[P02:60],[P02:56],[P02:56])([P02:52],[P02:52],[P02:57],[P02:67],[P02:59],[P02:79],[P02:86],[P02:47])

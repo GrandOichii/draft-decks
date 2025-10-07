@@ -1,0 +1,44 @@
+2 [M21:65] Roaming Ghostlight
+2 [M21:67] Rousing Read
+2 [M21:72] Spined Megalodon
+2 [M21:81] Tome Anima
+1 [M21:85] Wall of Runes
+1 [M21:62] Read the Tides
+1 [M21:59] Opt
+1 [M21:60] Pursued Whale
+1 [M21:55] Library Larcenist
+2 [M21:130] Battle-Rattle Shaman
+1 [M21:158] Scorching Dragonfire
+1 [M21:162] Subira, Tulzidi Caravanner
+2 [M21:145] Furor of the Bitten
+1 [M21:168] Turn to Slag
+1 [M21:163] Sure Strike
+1 [M21:155] Onakke Ogre
+1 [M21:237] Silent Dart
+3 [M21:265] Island
+4 [M21:263] Island
+2 [M21:310] Island
+1 [M21:264] Island
+1 [M21:312] Mountain
+2 [M21:270] Mountain
+3 [M21:269] Mountain
+1 [M21:271] Mountain
+SB: 1 [M21:42] Valorous Steed
+SB: 1 [M21:193] Llanowar Visionary
+SB: 1 [M21:4] Anointed Chorister
+SB: 1 [M21:195] Portcullis Vine
+SB: 2 [M21:221] Lorescale Coatl
+SB: 1 [M21:311] Swamp
+SB: 1 [M21:27] Mangara, the Diplomat
+SB: 1 [M21:16] Dub
+SB: 1 [M21:266] Swamp
+SB: 1 [M21:248] Radiant Fountain
+SB: 1 [M21:50] Frantic Inventory
+SB: 1 [M21:56] Lofty Denial
+SB: 1 [M21:64] Riddleform
+SB: 1 [M21:46] Cancel
+SB: 3 [M21:51] Frost Breath
+SB: 3 [M21:86] Wishcoin Crab
+SB: 1 [M21:68] Sanctum of Calm Waters
+LAYOUT MAIN:(1,8)(CMC,false,50)|([M21:265],[M21:263],[M21:265],[M21:263],[M21:310],[M21:310],[M21:264],[M21:265],[M21:263],[M21:263],[M21:312],[M21:270],[M21:270],[M21:269],[M21:271],[M21:269],[M21:269])([M21:145],[M21:145],[M21:59],[M21:237],[M21:85])([M21:158],[M21:163])([M21:55],[M21:155],[M21:67],[M21:67],[M21:162])([M21:130],[M21:130],[M21:81],[M21:81])([M21:65],[M21:65],[M21:168])([M21:62])([M21:60],[M21:72],[M21:72])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,50)|([M21:311],[M21:266],[M21:248])([M21:193],[M21:195])([M21:42],[M21:4],[M21:27],[M21:16])([M21:221],[M21:221])([M21:50],[M21:56],[M21:46],[M21:64],[M21:68],[M21:86],[M21:86],[M21:51],[M21:51],[M21:51],[M21:86])
